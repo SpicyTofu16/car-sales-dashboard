@@ -19,13 +19,13 @@ This project is a beginner-friendly Streamlit web app created to explore and vis
    source venv/bin/activate  # if using macOS/Linux
 
 
-## How to Run 
+# How to Run 
 
 pip install pandas plotly streamlit altair
 
 streamlit run app.py
 
-## Requirements
+# Requirements
 
 Python 3.9+
 
